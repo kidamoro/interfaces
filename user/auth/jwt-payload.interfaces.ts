@@ -1,6 +1,6 @@
-export interface JwtPayload{
-    username: string;
+export interface JwtPayload {
+  username: string;
 }
-export interface AccessToken{
-    accessToken:string;
+export interface AccessToken {
+  accessToken: string;
 }
